@@ -29,3 +29,42 @@ Python (72%) is #1 by far → the most programming-heavy role.
 SQL (51%) and R (44%) show a mix of data manipulation + statistical work.
 Lower emphasis on tools like Tableau → less focus on dashboards.
 Insight: Data scientists focus more on modeling, statistics, and machine learning.
+
+---
+
+## 2. How are in-demand skills trending for Data Analysts?
+
+View my notebook with detailed steps here: [3_Skills_Trend.ipynb](3_Skills_Trend.ipynb)
+
+### Results
+![Trending Top skills for Data Analysts in the US](Images\skill_trend.png)
+
+*This graph visulizing the trending top skills in Data Analysis in 2023.*
+
+### Insights:
+1. SQL dominates consistently
+SQL has the highest demand throughout the entire year.
+Even though it slightly declines toward the end (from ~63% to ~53%), it still remains #1 by a clear margin.
+👉 Insight: SQL is non-negotiable for data analysts.
+
+2. Excel is strong but volatile
+Starts high (~43%), peaks around July–August (~45%), then drops sharply (~34%) before recovering in December.
+👉 Insight: Excel is still important, but demand fluctuates more compared to SQL—possibly due to seasonal or role-specific needs.
+
+3. Python is growing (long-term upward trend)
+Starts around ~29% and ends higher (~33%).
+Shows some dips but overall clear upward momentum, especially in the second half of the year.
+👉 Insight: Python is becoming more important → shift toward automation + advanced analytics.
+
+4. Tableau is stable but slightly declining
+Starts ~35% and trends downward to ~30%.
+Minor peaks mid-year but overall gradual decrease.
+👉 Insight: Visualization tools are still needed, but maybe:
+Being replaced by alternatives (Power BI, Python viz)
+Or becoming a baseline skill rather than a differentiator.
+
+5. Power BI is steady but lowest demand
+Ranges between ~18%–23% all year.
+Very stable, no big spikes.
+👉 Insight: Power BI demand is consistent but less dominant than Tableau in this dataset.
+
