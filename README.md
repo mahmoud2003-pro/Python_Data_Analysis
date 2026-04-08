@@ -68,3 +68,27 @@ Ranges between ~18%–23% all year.
 Very stable, no big spikes.
 👉 Insight: Power BI demand is consistent but less dominant than Tableau in this dataset.
 
+---
+## 3. How well do jobs and skills pay for Data Analysts?
+
+View my notebook with detailed steps here: [4_Salary_Analysis.ipynb](4_Salary_Analysis.ipynb)
+
+### Salary Analysis
+
+### Result
+
+![Salary Distributions of Data jobs in the US](Images\salary_distribution.png)
+
+*Box Plot visulizing the salary ditributions for the top 6 data jobs titles.*
+
+### Insights:
+- There's a significant variation in salary ranges across different job titles. Senior Data Scientist positions tend to have the highest salary potential, with up to $600K, indicating the high value placed on advanced data skills and experience in the industry.
+
+- Senior Data Engineer and Senior Data Scientist roles show a considerable number of outliers on the higher end of the salary spectrum, suggesting that exceptional skills or circumstances can lead to high pay in these roles. In contrast, Data Analyst roles demonstrate more consistency in salary, with fewer outliers.
+
+- The median salaries increase with the seniority and specialization of the roles. Senior roles (Senior Data Scientist, Senior Data Engineer) not only have higher median salaries but also larger differences in typical salaries, reflecting greater variance in compensation as responsibilities increase.
+
+#### Investigate Median Salary Vs Skills for Data Analysts
+
+![Highest Paid and most demanded skills](Images\top_paid_skills.png)
+
